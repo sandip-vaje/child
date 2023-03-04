@@ -4,7 +4,10 @@
   "description": "",
   "main": "main.ea43c72e50519c56.js",
   "scripts": {
-    "add": "cp index.html 404.html && git status && git add . && git status"
+    "add": "cp index.html 404.html && git status && git add . && git status",
+    "rmv":"rm -r *.js && rm -r *.css",
+    "commit":"git commit -m 'Automated Push'",
+    "push":"git push origin naster"
   },
   "keywords": [],
   "author": "",
