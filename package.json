@@ -1,0 +1,12 @@
+{
+  "name": "child",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ea43c72e50519c56.js",
+  "scripts": {
+    "add": "cp index.html 404.html && git status && git add . && git status"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
